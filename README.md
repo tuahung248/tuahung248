@@ -1,6 +1,4 @@
-## A Data Science student passionate about applying statistical modeling, machine learning, and cloud technologies to extract actionable insights. My work focuses on developing practical solutions through Python, SQL, and R, supported by experience in data wrangling, visualization, and academic projects. I aim to deepen expertise in applied machine learning and scalable data pipelines, with the long-term goal of contributing to impactful industry applications.
-
-## 📫 Connect With Me:
+## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-hung-bui-b75a92267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuanhung.contact204@gmail.com) 
 
 ## 💻 Tech Stack:
