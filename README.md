@@ -3,14 +3,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hudson%20Bui&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Analytics%20Engineer%20%7C%20ML%20Practitioner&descAlignY=58&descAlign=50)
 
 <a href="https://github.com/tuahung248">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+Postgraduate+%40+Deakin+University;Building+End-to-End+ML+%26+Analytics+Pipelines;Open+to+Data+Analyst+%2F+Analytics+Engineer+Roles;Python+%7C+SQL+%7C+TensorFlow+%7C+Databricks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Final-Year+Data+Science+Student+%40+Deakin+University;Data+Analysis%2C+Dashboards+%26+Applied+ML;Open+to+Data+Analyst+%2F+Analytics+Engineer+Roles;Python+%7C+SQL+%7C+Power+BI+%7C+dbt" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Postgrad](https://img.shields.io/badge/Postgraduate-Data%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Graduating](https://img.shields.io/badge/Graduating-Nov%202026-7C3AED?style=for-the-badge&logo=calendar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Melbourne%2C%20Australia-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-hung-bui-b75a92267/)
 [![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanhung.contact204@gmail.com)
@@ -24,27 +21,13 @@
 
 ---
 
-### 📬 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-hung-bui-b75a92267/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanhung.contact204@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuahung248)
-
-</div>
-
----
-
 ### 🧠 About Me
 
-I'm a postgraduate Data Science student at Deakin University, graduating November 2026, focused on building **production-style analytics and machine learning pipelines** rather than notebook-only experiments. My work spans operational analytics, NLP research, predictive modeling, and lakehouse-style data architectures.
+Final-year Data Science student at Deakin University. Most of my work starts with a question I'm curious about — then I build toward an answer through reproducible analytics pipelines, predictive models you can evaluate properly, and dashboards that make insights usable for non-technical stakeholders. Outside coursework, I mentor first-year mathematics students at Deakin and help organise campus events with the student association.
 
-- 🔍 Currently building a **SaaS Churn Detection Engine** on a Databricks Lakehouse stack (Kafka → Delta Lake medallion architecture → MLflow 3 → Unity Catalog → Feature Store)
-- 📊 Background in **operational analytics**, with a NYC 311 service-request pipeline built on DuckDB + dbt-style transforms + CI/CD-deployed dashboards
-- 🧪 Research experience in **NLP robustness** — quantified cross-domain F1 degradation for NER models on noisy social text and tested noise-augmented fine-tuning strategies
-- ⚙️ Comfortable across the full stack: data ingestion, transformation, modeling, evaluation, and deployment (Docker, GitHub Actions, AWS, GCP)
-- 🎯 **Open to:** Data Analyst, Analytics Engineer, and Junior Data Scientist roles in **Australia 🇦🇺 and Vietnam 🇻🇳**
+Technically, I'm comfortable across the full flow: ingestion, transformation, modelling, evaluation, and deployment. I work mainly in Python and SQL, with experience in machine learning libraries, BI and dashboard tools, relational databases, and cloud and DevOps tooling including Docker and GitHub Actions.
+
+Open to data analyst, analytics engineer, and junior data scientist roles in Australia 🇦🇺 and Vietnam 🇻🇳.
 
 ---
 
@@ -77,15 +60,13 @@ I'm a postgraduate Data Science student at Deakin University, graduating Novembe
 
 ---
 
-### 🤖 ML / NLP Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Supervised ML | ⭐⭐⭐⭐ | Regression & classification pipelines (Random Forest, Gradient Boosting, ensembles), 93% accuracy fall-detection classifier |
-| NLP / NER | ⭐⭐⭐⭐ | HuggingFace Transformers, RoBERTa fine-tuning, BIO tagging, seqeval, cross-domain robustness evaluation |
-| Deep Learning / ASR | ⭐⭐⭐ | CTC-based DeepSpeech2-style architecture in TensorFlow/Keras, training stability debugging (NaN loss, gradient accumulation, LR scheduling) |
-| Model Interpretability | ⭐⭐⭐ | SHAP-based feature attribution for tabular models |
-| MLOps | ⭐⭐⭐ | MLflow experiment tracking, Docker-based deployment, GitHub Actions CI/CD, GCP Cloud Build |
+### 📊 Expertise
+| Domain | Details |
+|---|---|
+| Data Analysis & SQL | Exploratory analysis, KPI reporting, PostgreSQL, DuckDB, SQLite |
+| BI & Dashboards | Tableau, Power BI, Streamlit, Plotly for stakeholder decision support |
+| Data Pipelines | Python + SQL ingestion and transformation; dbt-style modelling; GitHub Actions |
+| Applied ML | Scikit-learn pipelines for classification and predictive modelling; model evaluation basics |
 
 ---
 
@@ -122,51 +103,6 @@ A supervised ML classifier for detecting falls from sensor data, achieving 93% a
 
 </details>
 
-<details>
-<summary><b>🔬 NER Robustness on Noisy Social Text (NAFT Research)</b></summary>
-<br/>
-
-Postgraduate NLP research project quantifying performance degradation of Named Entity Recognition models when moving from clean news text (CoNLL-2003) to noisy social media text (WNUT-2017), and evaluating Noise-Augmented Fine-Tuning (NAFT) as a mitigation strategy.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | HuggingFace Transformers, RoBERTa, seqeval, PyTorch |
-| **Finding** | 49.4 F1-point cross-domain gap; lowercasing dominant noise factor; ORG entities most affected |
-| **Method** | Noise-Augmented Fine-Tuning, three-seed statistical reporting |
-| **Result** | RoBERTa baseline (no augmentation) outperformed NAFT at 51.4% F1 |
-| **Infra** | A100 GPU VM training |
-
-</details>
-
-<details>
-<summary><b>🏠 Melbourne Housing Price Prediction</b></summary>
-<br/>
-
-Multi-suburb regression pipeline predicting housing prices, deployed as a Flask web demo with an LLM-based comparison component for model interpretability.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Scikit-learn (Linear/Ridge/RF/GBM), Flask |
-| **Focus** | Multi-suburb price prediction with model comparison |
-| **Extra** | LLM-based qualitative comparison layer |
-| **Repository** | [github.com/tuahung248](https://github.com/tuahung248) |
-
-</details>
-
-<details>
-<summary><b>🧱 SaaS Churn Detection Engine — Databricks Lakehouse <i>(in progress)</i></b></summary>
-<br/>
-
-A modern lakehouse-architecture churn prediction system designed to mirror real production ML platforms used by SaaS companies.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Kafka, Delta Lake (medallion architecture), MLflow 3, Unity Catalog, Feature Store, LightGBM/XGBoost, SHAP |
-| **Focus** | Real-time ingestion → curated feature pipeline → tracked model training → explainability |
-| **Status** | Architecture designed, build in progress |
-
-</details>
-
 ---
 
 ### 📊 GitHub Analytics
@@ -193,16 +129,6 @@ A modern lakehouse-architecture churn prediction system designed to mirror real 
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuahung248&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -210,33 +136,6 @@ A modern lakehouse-architecture churn prediction system designed to mirror real 
 ![Snake animation](https://raw.githubusercontent.com/tuahung248/tuahung248/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> *To enable this, set up the [contribution-snake GitHub Action](https://github.com/Platane/snk) on your profile repo.*
-
----
-
-### 🎯 Current Focus
-
-```yaml
-learning:
-  - Databricks Lakehouse architecture (Delta Lake, Unity Catalog, Feature Store)
-  - Streaming pipelines with Kafka
-
-building:
-  - SaaS Churn Detection Engine (end-to-end ML lakehouse project)
-  - Retail inventory intelligence project
-  - Australian open data economic monitoring dashboard
-
-exploring:
-  - MLflow 3 experiment tracking & model registry
-  - SHAP-based explainability for production models
-
-open_to:
-  - Data Analyst roles
-  - Analytics Engineer roles
-  - Junior Data Scientist roles
-  - Locations: Australia 🇦🇺 | Vietnam 🇻🇳
-```
 
 ---
 
