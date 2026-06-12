@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hudson%20Bui&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Analytics%20Engineer%20%7C%20ML%20Practitioner&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hudson%20Bui&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Analytics%20Engineer%20%7C%20Data%20Science&descAlignY=58&descAlign=50)
 
 <a href="https://github.com/tuahung248">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Final-Year+Data+Science+Student+%40+Deakin+University;Data+Analysis%2C+Dashboards+%26+Applied+ML;Open+to+Data+Analyst+%2F+Analytics+Engineer+Roles;Python+%7C+SQL+%7C+Power+BI+%7C+dbt" alt="Typing SVG" />
