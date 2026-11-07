@@ -123,19 +123,11 @@ A supervised ML classifier for detecting falls from sensor data, achieving 93% a
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=tuahung248&theme=algolia&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tuahung248&theme=algolia&row=1&column=6)
 
 </div>
 
 ---
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/tuahung248/tuahung248/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
